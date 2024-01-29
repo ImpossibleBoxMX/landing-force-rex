@@ -1,41 +1,45 @@
-# Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+# Landing Force Rex
 
-### Installation
+Landing Force Rex es la página de inicio para Impossible Box de México S.A.S de C.V. Este proyecto representa la primera interacción que los usuarios tienen con nuestra organización, ofreciendo una visión clara de nuestros servicios y valores.
 
-```
-$ yarn
-```
+## Características
 
-### Local Development
+- Descripción interactiva y visualmente atractiva de los servicios ofrecidos.
+- Información detallada sobre la misión y visión de Impossible Box de México.
+- Diseño responsivo adaptado a todos los dispositivos.
 
-```
-$ yarn start
-```
+## Inicio Rápido
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Prerrequisitos
 
-### Build
+Antes de comenzar, asegúrate de tener instalado:
 
-```
-$ yarn build
-```
+- [Node.js](https://nodejs.org/)
+- [Docusaurus](https://docusaurus.io/)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Instalación
 
-### Deployment
+Para instalar y configurar localmente el proyecto, sigue estos pasos:
 
-Using SSH:
+    ```bash
+    git clone https://github.com/tu-usuario/landing-force-rex.git
+    cd landing-force-rex
+    npm install
+    
+    
+    Proporciona un paso a paso para poner en marcha un entorno de desarrollo. Por ejemplo:
+    
+    ```bash
+    git clone https://github.com/tu-usuario/landing-force-rex.git
+    cd landing-force-rex
+    npm install
 
-```
-$ USE_SSH=true yarn deploy
-```
+## Licencia
 
-Not using SSH:
+El código fuente de este proyecto está licenciado bajo la Licencia MIT.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+### Derechos de Autor y Marcas Registradas
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Impossible Box de México S.A.S. de C.V. es una marca registrada. El uso del nombre, logotipo y marcas asociadas con Impossible Box de México S.A.S. de C.V. está sujeto a las leyes de derechos de autor y marcas registradas y requiere autorización previa.
+
