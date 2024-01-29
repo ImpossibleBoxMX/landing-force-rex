@@ -16,23 +16,22 @@ Antes de comenzar, asegúrate de tener instalado:
 
 - [Node.js](https://nodejs.org/)
 - [Docusaurus](https://docusaurus.io/)
-
 ### Instalación
 
 Para instalar y configurar localmente el proyecto, sigue estos pasos:
 
-```bash
-git clone https://github.com/tu-usuario/landing-force-rex.git
-cd landing-force-rex
-npm install
-
-
-Proporciona un paso a paso para poner en marcha un entorno de desarrollo. Por ejemplo:
-
-```bash
-git clone https://github.com/tu-usuario/landing-force-rex.git
-cd landing-force-rex
-npm install
+    ```bash
+    git clone https://github.com/tu-usuario/landing-force-rex.git
+    cd landing-force-rex
+    npm install
+    
+    
+    Proporciona un paso a paso para poner en marcha un entorno de desarrollo. Por ejemplo:
+    
+    ```bash
+    git clone https://github.com/tu-usuario/landing-force-rex.git
+    cd landing-force-rex
+    npm install
 
 ## Licencia
 
