@@ -1,4 +1,4 @@
-# Landing Force Rex
+# Landing Force Rex 🦖
 
 Landing Force Rex es la página de inicio para Impossible Box de México S.A.S de C.V. Este proyecto representa la primera interacción que los usuarios tienen con nuestra organización, ofreciendo una visión clara de nuestros servicios y valores.
 
