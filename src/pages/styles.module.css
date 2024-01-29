@@ -1,0 +1,42 @@
+
+.hero {
+  text-align: center;
+  padding: 4rem 0;
+  background-image: url('/img/hero.jpg'); /* Ruta a tu imagen */
+  background-size: cover; /* Cubre todo el fondo */
+  background-position: center; /* Centra la imagen en el fondo */
+  color: #ffffff; /* Cambia el color del texto para mejorar la legibilidad */
+/* Estilo para el título principal en el hero */
+}
+.hero h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  color: #212121; /* Color del texto del título */
+}
+.hero img {
+  max-width: 100%;
+  height: auto;
+}
+/* Estilo para el párrafo en el hero */
+.hero p {
+  font-size: 1.5rem;
+  color: #424242; /* Color del texto del párrafo */
+}
+
+/* Estilos para la sección de texto extensa */
+.container {
+  padding: 2rem 0;
+}
+
+/* Estilo para los títulos de las secciones de texto */
+.container h2 {
+  font-size: 2rem;
+  color: #333; /* Color del texto de los subtítulos */
+}
+
+/* Estilo para los párrafos de la sección de texto */
+.container p {
+  font-size: 1rem;
+  color: #666; /* Color del texto de los párrafos */
+  line-height: 1.6; /* Espaciado entre líneas */
+}

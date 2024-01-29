@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklanding_force_three_rex=self.webpackChunklanding_force_three_rex||[]).push([[9700],{5688:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
