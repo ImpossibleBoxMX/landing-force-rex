@@ -1,0 +1,135 @@
+{
+  "blogPosts": [
+    {
+      "id": "nosotros",
+      "metadata": {
+        "permalink": "/blog/nosotros",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-01-28-nosotros.md",
+        "source": "@site/blog/2025-01-28-nosotros.md",
+        "title": "Sobre los valores de Impossible Box de México",
+        "description": "Nuestra meta: Facilitar la integración de las sociedades con la tecnología.",
+        "date": "2025-01-28T00:00:00.000Z",
+        "formattedDate": "January 28, 2025",
+        "tags": [],
+        "readingTime": 0.84,
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {
+          "slug": "nosotros",
+          "title": "Sobre los valores de Impossible Box de México"
+        },
+        "unlisted": false,
+        "nextItem": {
+          "title": "Manfiesto de fundación de Impossible Box de México",
+          "permalink": "/blog/manifiesto-de-fundacion"
+        }
+      },
+      "content": "## Nuestra meta: Facilitar la integración de las sociedades con la tecnología.\n\nCreamos puentes, generamos beneficios para la sociedad y para nuestros clientes y colaboradores. Transformamos las comunidades con tecnología y datos, con ambientes de trabajo inclusivos y ágiles. Somos digitales, trabajamos con herramientas de todo el mundo y nos reunimos en todas partes del mundo. Somos pragmáticos e innovadores. Trabajamos con todo tipo de industrias y construimos asociaciones para generar valor a largo plazo.\n\n## Nuestros valores.\n\n**Inclusividad:** No se construye discriminando.\n\n**Valor es mejorar:** Nuestros clientes generaran mejores beneficios con nuestra ayuda.\n\n**Transparencia**: En nuestras relaciones con clientes gubernamentales nos apegamos a las regulaciones correspondientes. Somos abiertos en nuestro gobierno corporativo.\n\n**Talento genera bienestar:** Nuestros colaboradores son nuestro mayor activo. Procuramos su bienestar laboral y personal.\n\n**Código abierto:** Nuestras soluciones en su mayoría son de código abierto, también el software con el que trabajamos.\n\n**Información universalmente accesible**: Nuestros esfuerzos en la Estantería Digital y otras solucionoes de software libre siempre serán gratuitas de cara al público."
+    },
+    {
+      "id": "manifiesto-de-fundacion",
+      "metadata": {
+        "permalink": "/blog/manifiesto-de-fundacion",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-28-manifiesto.md",
+        "source": "@site/blog/2024-01-28-manifiesto.md",
+        "title": "Manfiesto de fundación de Impossible Box de México",
+        "description": "1.  El Grupo Impossible Box de México declara que su misión final es facilitar la integración de las sociedades con la tecnología, poniendo la última al servicio de la primera y estableciendo como meta el desarrollo humano de las comunidades en las que actuamos.",
+        "date": "2024-01-28T00:00:00.000Z",
+        "formattedDate": "January 28, 2024",
+        "tags": [],
+        "readingTime": 0.91,
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {
+          "slug": "manifiesto-de-fundacion",
+          "title": "Manfiesto de fundación de Impossible Box de México"
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Sobre los valores de Impossible Box de México",
+          "permalink": "/blog/nosotros"
+        },
+        "nextItem": {
+          "title": "Aviso de privacidad",
+          "permalink": "/blog/aviso-de-privacidad"
+        }
+      },
+      "content": "1.  El Grupo Impossible Box de México declara que su misión final es facilitar la integración de las sociedades con la tecnología, poniendo la última al servicio de la primera y estableciendo como meta el desarrollo humano de las comunidades en las que actuamos.\n2.  Declaramos también nuestra intención de ayudar en la creación de puentes que conecten y entrelacen de manera más eficiente a la sociedad civil, el gobierno y el sector privado, solo a través de una colaboración unida y coordinada podemos enfrentar los desafíos del presente y del futuro, allanando el camino hacia una sociedad más justa y próspera.\n3.  Manifestamos nuestro interés en la aplicación de nuevas formas de planeación de comunidades digitales teniendo en consideración los paradigmas de la Economía de la información.\n4.  Este manifiesto es para los que creen que podemos ser una mejor sociedad con una integración realista con el mundo y para el mundo.\n5.  Para los que no dejan de soñar.\n\nEn representación de todos los integrantes actuales y futuros de Impossible Box de México y filiales.\n\n  \n\n *Oscar Zambrano Lara*\n\nDirector Ejecutivo"
+    },
+    {
+      "id": "aviso-de-privacidad",
+      "metadata": {
+        "permalink": "/blog/aviso-de-privacidad",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-07-welcome/index.md",
+        "source": "@site/blog/2024-01-07-welcome/index.md",
+        "title": "Aviso de privacidad",
+        "description": "Impossible Box de México S.A.S. de C.V. (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:",
+        "date": "2024-01-07T00:00:00.000Z",
+        "formattedDate": "January 7, 2024",
+        "tags": [],
+        "readingTime": 2.205,
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {
+          "slug": "aviso-de-privacidad",
+          "title": "Aviso de privacidad"
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Manfiesto de fundación de Impossible Box de México",
+          "permalink": "/blog/manifiesto-de-fundacion"
+        },
+        "nextItem": {
+          "title": "MDX Blog Post",
+          "permalink": "/blog/mdx-blog-post"
+        }
+      },
+      "content": "**Impossible Box de México S.A.S. de C.V.** (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:\n\n## Finalidades del tratamiento de datos personales\n\nEn Impossible Box de México, recopilamos y utilizamos sus datos personales con las siguientes finalidades:\n\n- Respuesta a mensajes del formulario de contacto.\n- Prestación de servicios solicitados.\n- Mejora de nuestras operaciones, sistemas y procesos empresariales.\n- Protección de nuestros activos y empleados.\n- Desarrollo de nuevos productos y servicios.\n- Defensa de nuestros derechos.\n\n## Datos personales recopilados\n\nPara lograr las finalidades antes mencionadas, recopilamos los siguientes datos personales:\n\n- Datos de identificación y contacto: nombre, dirección, teléfono y correo electrónico.\n- Datos laborales: puesto de trabajo y empresa.\n- Datos académicos: nivel de estudios y certificaciones.\n- Datos migratorios, en caso de ser aplicable.\n- Datos patrimoniales y/o financieros, si son necesarios para el cumplimiento de un contrato.\n\n## Transferencia de datos personales\n\nSus datos personales podrán ser transferidos y tratados por terceros, dentro y fuera del país, con el único propósito de cumplir con las finalidades establecidas en este aviso de privacidad y en cumplimiento de la legislación aplicable.\n\n## Ejercicio de derechos ARCO\n\nUsted tiene derecho a ejercer los derechos de acceso, rectificación, cancelación y oposición (derechos ARCO) respecto a sus datos personales.\n\n## Medidas de seguridad\n\nImpossible Box de México ha implementado medidas de seguridad técnicas, administrativas y físicas para proteger sus datos personales contra el acceso no autorizado, el uso indebido y la divulgación.\n\n## Uso de Cookies y Google Analytics\n\nEste sitio web utiliza cookies y tecnologías similares para mejorar su experiencia de navegación y recopilar información sobre cómo utiliza nuestro sitio.\n\n- Funcionalidad del sitio.\n- Análisis de datos.\n- Publicidad.\n\nPuede optar por desactivar o eliminar las cookies en la configuración de su navegador.\n\n## Cambios al aviso de privacidad\n\nNos reservamos el derecho de modificar o actualizar este aviso de privacidad en cualquier momento para cumplir con cambios en la legislación o nuestras prácticas de privacidad.\n\n## Contacto\n\nSi tiene alguna pregunta o desea obtener más información sobre este aviso de privacidad o el tratamiento de sus datos personales, puede ponerse en contacto con nosotros a través de los siguientes medios:\n\n- Impossible Box de México S.A.S. de C.V.\n- Domicilio: Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México\n- Correo electrónico: nosotros@impossiblebox.com.mx\n\nÚltima actualización de este aviso de privacidad: 7 de enero de 2024."
+    },
+    {
+      "id": "mdx-blog-post",
+      "metadata": {
+        "permalink": "/blog/mdx-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+        "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+        "title": "MDX Blog Post",
+        "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+        "date": "2021-08-01T00:00:00.000Z",
+        "formattedDate": "August 1, 2021",
+        "tags": [
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.175,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          }
+        ],
+        "frontMatter": {
+          "slug": "mdx-blog-post",
+          "title": "MDX Blog Post",
+          "authors": [
+            "slorber"
+          ],
+          "tags": [
+            "docusaurus"
+          ]
+        },
+        "unlisted": false,
+        "prevItem": {
+          "title": "Aviso de privacidad",
+          "permalink": "/blog/aviso-de-privacidad"
+        }
+      },
+      "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+    }
+  ]
+}

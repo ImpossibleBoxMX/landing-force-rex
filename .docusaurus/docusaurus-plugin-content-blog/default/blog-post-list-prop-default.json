@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Sobre los valores de Impossible Box de México",
+      "permalink": "/blog/nosotros",
+      "unlisted": false
+    },
+    {
+      "title": "Manfiesto de fundación de Impossible Box de México",
+      "permalink": "/blog/manifiesto-de-fundacion",
+      "unlisted": false
+    },
+    {
+      "title": "Aviso de privacidad",
+      "permalink": "/blog/aviso-de-privacidad",
+      "unlisted": false
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/blog/mdx-blog-post",
+      "unlisted": false
+    }
+  ]
+}

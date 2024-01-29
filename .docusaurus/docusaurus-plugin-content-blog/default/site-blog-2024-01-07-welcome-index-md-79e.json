@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/aviso-de-privacidad",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-07-welcome/index.md",
+  "source": "@site/blog/2024-01-07-welcome/index.md",
+  "title": "Aviso de privacidad",
+  "description": "Impossible Box de México S.A.S. de C.V. (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:",
+  "date": "2024-01-07T00:00:00.000Z",
+  "formattedDate": "January 7, 2024",
+  "tags": [],
+  "readingTime": 2.205,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "aviso-de-privacidad",
+    "title": "Aviso de privacidad"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Manfiesto de fundación de Impossible Box de México",
+    "permalink": "/blog/manifiesto-de-fundacion"
+  },
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}
