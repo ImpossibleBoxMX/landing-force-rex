@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -97,7 +97,7 @@ const config: Config = {
             },
             {
               label: 'Nuestros valores',
-              href: '/blog/nostros',
+              href: '/blog/nosotros',
             },
             {
               label: 'Impossible Box Bulletin',

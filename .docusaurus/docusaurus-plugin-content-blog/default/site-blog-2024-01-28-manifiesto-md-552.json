@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/manifiesto-de-fundacion",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-28-manifiesto.md",
+  "source": "@site/blog/2024-01-28-manifiesto.md",
+  "title": "Manfiesto de fundación de Impossible Box de México",
+  "description": "1.  El Grupo Impossible Box de México declara que su misión final es facilitar la integración de las sociedades con la tecnología, poniendo la última al servicio de la primera y estableciendo como meta el desarrollo humano de las comunidades en las que actuamos.",
+  "date": "2024-01-28T00:00:00.000Z",
+  "formattedDate": "January 28, 2024",
+  "tags": [],
+  "readingTime": 0.91,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "manifiesto-de-fundacion",
+    "title": "Manfiesto de fundación de Impossible Box de México"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sobre los valores de Impossible Box de México",
+    "permalink": "/blog/nosotros"
+  },
+  "nextItem": {
+    "title": "Aviso de privacidad",
+    "permalink": "/blog/aviso-de-privacidad"
+  }
+}

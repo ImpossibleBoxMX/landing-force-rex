@@ -1,0 +1,526 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/home/ImpossibleBoxMX/Impossible Box de México/landing-force-rex/docs",
+          "contentPathLocalized": "/home/ImpossibleBoxMX/Impossible Box de México/landing-force-rex/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/docs/category/tutorial---extras"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "nosotros",
+          "metadata": {
+            "permalink": "/blog/nosotros",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-01-28-nosotros.md",
+            "source": "@site/blog/2025-01-28-nosotros.md",
+            "title": "Sobre los valores de Impossible Box de México",
+            "description": "Nuestra meta: Facilitar la integración de las sociedades con la tecnología.",
+            "date": "2025-01-28T00:00:00.000Z",
+            "formattedDate": "January 28, 2025",
+            "tags": [],
+            "readingTime": 0.84,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "nosotros",
+              "title": "Sobre los valores de Impossible Box de México"
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "Manfiesto de fundación de Impossible Box de México",
+              "permalink": "/blog/manifiesto-de-fundacion"
+            }
+          },
+          "content": "## Nuestra meta: Facilitar la integración de las sociedades con la tecnología.\n\nCreamos puentes, generamos beneficios para la sociedad y para nuestros clientes y colaboradores. Transformamos las comunidades con tecnología y datos, con ambientes de trabajo inclusivos y ágiles. Somos digitales, trabajamos con herramientas de todo el mundo y nos reunimos en todas partes del mundo. Somos pragmáticos e innovadores. Trabajamos con todo tipo de industrias y construimos asociaciones para generar valor a largo plazo.\n\n## Nuestros valores.\n\n**Inclusividad:** No se construye discriminando.\n\n**Valor es mejorar:** Nuestros clientes generaran mejores beneficios con nuestra ayuda.\n\n**Transparencia**: En nuestras relaciones con clientes gubernamentales nos apegamos a las regulaciones correspondientes. Somos abiertos en nuestro gobierno corporativo.\n\n**Talento genera bienestar:** Nuestros colaboradores son nuestro mayor activo. Procuramos su bienestar laboral y personal.\n\n**Código abierto:** Nuestras soluciones en su mayoría son de código abierto, también el software con el que trabajamos.\n\n**Información universalmente accesible**: Nuestros esfuerzos en la Estantería Digital y otras solucionoes de software libre siempre serán gratuitas de cara al público."
+        },
+        {
+          "id": "manifiesto-de-fundacion",
+          "metadata": {
+            "permalink": "/blog/manifiesto-de-fundacion",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-28-manifiesto.md",
+            "source": "@site/blog/2024-01-28-manifiesto.md",
+            "title": "Manfiesto de fundación de Impossible Box de México",
+            "description": "1.  El Grupo Impossible Box de México declara que su misión final es facilitar la integración de las sociedades con la tecnología, poniendo la última al servicio de la primera y estableciendo como meta el desarrollo humano de las comunidades en las que actuamos.",
+            "date": "2024-01-28T00:00:00.000Z",
+            "formattedDate": "January 28, 2024",
+            "tags": [],
+            "readingTime": 0.91,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "manifiesto-de-fundacion",
+              "title": "Manfiesto de fundación de Impossible Box de México"
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Sobre los valores de Impossible Box de México",
+              "permalink": "/blog/nosotros"
+            },
+            "nextItem": {
+              "title": "Aviso de privacidad",
+              "permalink": "/blog/aviso-de-privacidad"
+            }
+          },
+          "content": "1.  El Grupo Impossible Box de México declara que su misión final es facilitar la integración de las sociedades con la tecnología, poniendo la última al servicio de la primera y estableciendo como meta el desarrollo humano de las comunidades en las que actuamos.\n2.  Declaramos también nuestra intención de ayudar en la creación de puentes que conecten y entrelacen de manera más eficiente a la sociedad civil, el gobierno y el sector privado, solo a través de una colaboración unida y coordinada podemos enfrentar los desafíos del presente y del futuro, allanando el camino hacia una sociedad más justa y próspera.\n3.  Manifestamos nuestro interés en la aplicación de nuevas formas de planeación de comunidades digitales teniendo en consideración los paradigmas de la Economía de la información.\n4.  Este manifiesto es para los que creen que podemos ser una mejor sociedad con una integración realista con el mundo y para el mundo.\n5.  Para los que no dejan de soñar.\n\nEn representación de todos los integrantes actuales y futuros de Impossible Box de México y filiales.\n\n  \n\n *Oscar Zambrano Lara*\n\nDirector Ejecutivo"
+        },
+        {
+          "id": "aviso-de-privacidad",
+          "metadata": {
+            "permalink": "/blog/aviso-de-privacidad",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-01-07-welcome/index.md",
+            "source": "@site/blog/2024-01-07-welcome/index.md",
+            "title": "Aviso de privacidad",
+            "description": "Impossible Box de México S.A.S. de C.V. (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:",
+            "date": "2024-01-07T00:00:00.000Z",
+            "formattedDate": "January 7, 2024",
+            "tags": [],
+            "readingTime": 2.205,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "aviso-de-privacidad",
+              "title": "Aviso de privacidad"
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Manfiesto de fundación de Impossible Box de México",
+              "permalink": "/blog/manifiesto-de-fundacion"
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "**Impossible Box de México S.A.S. de C.V.** (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:\n\n## Finalidades del tratamiento de datos personales\n\nEn Impossible Box de México, recopilamos y utilizamos sus datos personales con las siguientes finalidades:\n\n- Respuesta a mensajes del formulario de contacto.\n- Prestación de servicios solicitados.\n- Mejora de nuestras operaciones, sistemas y procesos empresariales.\n- Protección de nuestros activos y empleados.\n- Desarrollo de nuevos productos y servicios.\n- Defensa de nuestros derechos.\n\n## Datos personales recopilados\n\nPara lograr las finalidades antes mencionadas, recopilamos los siguientes datos personales:\n\n- Datos de identificación y contacto: nombre, dirección, teléfono y correo electrónico.\n- Datos laborales: puesto de trabajo y empresa.\n- Datos académicos: nivel de estudios y certificaciones.\n- Datos migratorios, en caso de ser aplicable.\n- Datos patrimoniales y/o financieros, si son necesarios para el cumplimiento de un contrato.\n\n## Transferencia de datos personales\n\nSus datos personales podrán ser transferidos y tratados por terceros, dentro y fuera del país, con el único propósito de cumplir con las finalidades establecidas en este aviso de privacidad y en cumplimiento de la legislación aplicable.\n\n## Ejercicio de derechos ARCO\n\nUsted tiene derecho a ejercer los derechos de acceso, rectificación, cancelación y oposición (derechos ARCO) respecto a sus datos personales.\n\n## Medidas de seguridad\n\nImpossible Box de México ha implementado medidas de seguridad técnicas, administrativas y físicas para proteger sus datos personales contra el acceso no autorizado, el uso indebido y la divulgación.\n\n## Uso de Cookies y Google Analytics\n\nEste sitio web utiliza cookies y tecnologías similares para mejorar su experiencia de navegación y recopilar información sobre cómo utiliza nuestro sitio.\n\n- Funcionalidad del sitio.\n- Análisis de datos.\n- Publicidad.\n\nPuede optar por desactivar o eliminar las cookies en la configuración de su navegador.\n\n## Cambios al aviso de privacidad\n\nNos reservamos el derecho de modificar o actualizar este aviso de privacidad en cualquier momento para cumplir con cambios en la legislación o nuestras prácticas de privacidad.\n\n## Contacto\n\nSi tiene alguna pregunta o desea obtener más información sobre este aviso de privacidad o el tratamiento de sus datos personales, puede ponerse en contacto con nosotros a través de los siguientes medios:\n\n- Impossible Box de México S.A.S. de C.V.\n- Domicilio: Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México\n- Correo electrónico: nosotros@impossiblebox.com.mx\n\nÚltima actualización de este aviso de privacidad: 7 de enero de 2024."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Aviso de privacidad",
+              "permalink": "/blog/aviso-de-privacidad"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "nosotros",
+            "manifiesto-de-fundacion",
+            "aviso-de-privacidad",
+            "mdx-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "mdx-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "mdx-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

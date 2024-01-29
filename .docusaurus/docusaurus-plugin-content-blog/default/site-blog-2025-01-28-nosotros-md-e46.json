@@ -1,0 +1,22 @@
+{
+  "permalink": "/blog/nosotros",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-01-28-nosotros.md",
+  "source": "@site/blog/2025-01-28-nosotros.md",
+  "title": "Sobre los valores de Impossible Box de México",
+  "description": "Nuestra meta: Facilitar la integración de las sociedades con la tecnología.",
+  "date": "2025-01-28T00:00:00.000Z",
+  "formattedDate": "January 28, 2025",
+  "tags": [],
+  "readingTime": 0.84,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "nosotros",
+    "title": "Sobre los valores de Impossible Box de México"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Manfiesto de fundación de Impossible Box de México",
+    "permalink": "/blog/manifiesto-de-fundacion"
+  }
+}
