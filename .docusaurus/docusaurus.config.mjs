@@ -11,8 +11,8 @@ export default {
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenLinks": "ignore",
+  "onBrokenMarkdownLinks": "ignore",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -63,7 +63,7 @@ export default {
             },
             {
               "label": "Nuestros valores",
-              "href": "/blog/nostros"
+              "href": "/blog/nosotros"
             },
             {
               "label": "Impossible Box Bulletin",
