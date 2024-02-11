@@ -7,14 +7,22 @@ function HomePage() {
     <Layout title="Inicio" description="Descripción de la página de inicio">
       <div className={styles.hero}>
         <div className="container">
-          <h1>¡Explora Nuestro Mundo Tecnológico!</h1>
-          <p>Descubre cómo la tecnología puede cambiar la vida</p>
+          <h1>Integración tecnológica realista: Adoptando la innovación conscientemente.</h1>
+          <p>Descubre cómo la tecnología puede cambiar la vida de las comunidades 🌇</p>
           {/* Botón de acción */}
           <a href="#mas-informacion" className={styles.button}>Más Información</a>
         </div>
       </div>
       <div className="container">
-        <p>En Impossible Box de México exploramos cómo un enfoque tecnológico sólido puede impulsar el bienestar de la sociedad en tres aspectos clave: información, transparencia y transformación.</p>
+      
+      <br>
+      </br>
+      
+        
+      <br>
+      </br>
+      
+        <p>En <strong>Impossible Box de México</strong> exploramos cómo un enfoque tecnológico sólido puede impulsar el bienestar de la sociedad en tres aspectos clave: información, transparencia y transformación.</p>
 
 <h2>Información Accesible para Todos:</h2>
 <ul>
@@ -35,6 +43,12 @@ function HomePage() {
 <ul>
   <li>Reshaping Communities with Tech: Nos esforzamos por transformar la vida y el trabajo a través de la adopción de sistemas innovadores y soluciones disruptivas, creando entornos más eficientes y equitativos.</li>
 </ul>
+
+      <br>
+      </br>
+      
+      <br>
+      </br>
 
       </div>
     </Layout>
