@@ -15,9 +15,10 @@
   --ifm-color-primary-lightest: #330036;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #000000; /* Fondo negro puro para el modo claro */
 
   /* Colores del footer para el modo claro */
-  --ifm-footer-background-color: #ffffff; /* Blanco puro */
+  --ifm-footer-background-color: #000000; /* Negro puro */
   --ifm-footer-color: #ffffff; /* Texto blanco */
   --ifm-footer-link-color: #ffffff; /* Color de los enlaces */
 }
@@ -32,6 +33,7 @@
   --ifm-color-primary-lighter: #330036;
   --ifm-color-primary-lightest: #330036;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #000000!important; /* Fondo negro puro para el modo oscuro */
 
   /* Colores del footer para el modo oscuro */
   --ifm-footer-background-color: #000000; /* Negro puro */
@@ -39,19 +41,19 @@
   --ifm-footer-link-color: #ffffff; /* Color de los enlaces */
 }
 
+/* Ajustando el fondo de todo el sitio a negro puro */
+body {
+  background-color: var(--ifm-background-color);
+}
+
 /* Sobrescribiendo estilos específicos del footer para evitar el bug reportado */
-.footer.footer--dark {
+.footer.footer--dark, .footer {
   --ifm-footer-background-color: #000000; /* Negro puro */
   --ifm-footer-color: #ffffff; /* Texto blanco */
   --ifm-footer-link-color: #ffffff; /* Color de los enlaces */
 }
 
-.footer {
-  --ifm-footer-background-color: #ffffff; /* Blanco puro */
-  --ifm-footer-color: #ffffff; /* Texto blanco */
-  --ifm-footer-link-color: #ffffff; /* Color de los enlaces */
-}
-/* Ejemplo de selector - reemplázalo con el selector real de tu logo */
+/* Ajustes de la navbar y logo */
 .navbar {
   height: 45px; /* Ajusta este valor según sea necesario */
   /* Otros estilos si son necesarios */
@@ -60,4 +62,8 @@
   display: flex;
   align-items: center; /* Esto centra el logo verticalmente */
   height: 100%; /* Esto hace que el contenedor del logo tenga la misma altura que la navbar */
+}
+.navbar__logo img {
+  max-width: 270px; /* Establece el ancho máximo a 100px */
+  height: auto; /* Asegura que la altura se ajuste proporcionalmente */
 }

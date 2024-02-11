@@ -5,13 +5,13 @@
  */
 export default {
   "title": "Impossible Box de México | Transformemos juntos",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Descubre cómo la tecnología puede cambiar la vida de las comunidades",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://www.impossiblebox.com.mx",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
-  "onBrokenLinks": "ignore",
+  "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -47,11 +47,6 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -68,7 +63,7 @@ export default {
             },
             {
               "label": "Nuestros valores",
-              "href": "/blog/nosotros"
+              "href": "/blog/nostros"
             },
             {
               "label": "Impossible Box Bulletin",
