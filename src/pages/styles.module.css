@@ -40,3 +40,19 @@
   color: #666; /* Color del texto de los párrafos */
   line-height: 1.6; /* Espaciado entre líneas */
 }
+.firstParagraph {
+  margin-top: 30px; /* Ajusta este valor según la separación que desees */
+}
+.separator {
+  border: 0;
+  height: 2px;
+  background-color: #333; /* Ajusta el color según tu diseño */
+  margin: 20px 0; /* Ajusta el margen según tus necesidades */
+}
+
+.didYouKnow {
+  font-style: italic; /* Estilo para el texto '¿Sabías que...?' */
+  color: #555; /* Ajusta el color según tu diseño */
+  /* Agrega cualquier otro estilo que consideres necesario */
+}
+
