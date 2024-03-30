@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '3d2'),
+    component: ComponentCreator('/blog', '235'),
     exact: true
   },
   {
@@ -48,33 +48,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', '4db'),
-    exact: true
-  },
-  {
     path: '/blog/manifiesto-de-fundacion',
     component: ComponentCreator('/blog/manifiesto-de-fundacion', '06e'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '5a5'),
-    exact: true
-  },
-  {
     path: '/blog/nosotros',
-    component: ComponentCreator('/blog/nosotros', '7c0'),
+    component: ComponentCreator('/blog/nosotros', 'c88'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'f6c'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '4ef'),
+    path: '/blog/studio',
+    component: ComponentCreator('/blog/studio', '0a3'),
     exact: true
   },
   {

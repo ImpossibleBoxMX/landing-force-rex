@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/stucio",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-03-17-studio.md",
+  "source": "@site/blog/2024-03-17-studio.md",
+  "title": "Impossible Box Studio",
+  "description": "En Impossible Box de México, siempre estamos buscando maneras innovadoras de explorar y expandir nuestros horizontes. Es por eso que estamos encantados de anunciar nuestra nuevp proyecto: Impossible Box Studio.",
+  "date": "2024-03-17T00:00:00.000Z",
+  "formattedDate": "March 17, 2024",
+  "tags": [],
+  "readingTime": 0.855,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "stucio",
+    "title": "Impossible Box Studio"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sobre los valores de Impossible Box de México",
+    "permalink": "/blog/nosotros"
+  },
+  "nextItem": {
+    "title": "Manfiesto de fundación de Impossible Box de México",
+    "permalink": "/blog/manifiesto-de-fundacion"
+  }
+}
